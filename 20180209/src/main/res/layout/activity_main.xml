@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a20180209.MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:id="@+id/frament"
+
+        ></FrameLayout>
+
+      <RadioGroup
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1"
+          android:orientation="horizontal"
+          android:id="@+id/group"
+          >
+
+          <RadioButton
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:id="@+id/bu_09"
+    android:layout_height="match_parent"
+    android:button="@null"
+    android:text="t1"
+    android:padding="10dp"
+    android:gravity="center"
+    />
+          <RadioButton
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:id="@+id/bu1_09"
+              android:layout_height="match_parent"
+              android:button="@null"
+              android:text="t1"
+              android:padding="10dp"
+              android:gravity="center"
+              />
+          <RadioButton
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:id="@+id/bu2_09"
+              android:layout_height="match_parent"
+              android:button="@null"
+              android:text="t1"
+              android:padding="10dp"
+              android:gravity="center"
+              />
+          <RadioButton
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:id="@+id/bu3_09"
+              android:layout_height="match_parent"
+              android:button="@null"
+              android:text="t1"
+              android:padding="10dp"
+              android:gravity="center"
+              />
+          <RadioButton
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:id="@+id/bu4_09"
+              android:layout_height="match_parent"
+              android:button="@null"
+              android:text="t1"
+              android:padding="10dp"
+              android:gravity="center"
+              />
+
+</RadioGroup>
+</LinearLayout>

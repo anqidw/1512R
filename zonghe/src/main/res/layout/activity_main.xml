@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="example.com.zonghe.MainActivity">
+
+   <FrameLayout
+       android:id="@+id/frame"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight="9"></FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/one"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="页面①"
+            android:checked="true"
+            android:background="@drawable/selector"
+            android:button="@null"
+            android:gravity="center"/>
+        <RadioButton
+            android:id="@+id/two"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="页面②"
+            android:background="@drawable/selector"
+            android:button="@null"
+            android:gravity="center"/>
+        <RadioButton
+            android:id="@+id/three"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector"
+            android:text="页面③"
+            android:button="@null"
+            android:gravity="center"/>
+        <RadioButton
+            android:id="@+id/four"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector"
+            android:text="页面④"
+            android:button="@null"
+            android:gravity="center"/>
+
+    </RadioGroup>
+
+</LinearLayout>

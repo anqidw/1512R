@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\day android studio\20180205\20180205.iml" filepath="E:\day android studio\20180205\20180205.iml" />
+      <module fileurl="file://E:\day android studio\20180207\20180207.iml" filepath="E:\day android studio\20180207\20180207.iml" />
+      <module fileurl="file://E:\day android studio\20180212\20180212.iml" filepath="E:\day android studio\20180212\20180212.iml" />
+      <module fileurl="file://E:\day android studio\20180222\20180222.iml" filepath="E:\day android studio\20180222\20180222.iml" />
+      <module fileurl="file://E:\day android studio\2_2\2_2.iml" filepath="E:\day android studio\2_2\2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anqiyuekao/anqiyuekao.iml" filepath="$PROJECT_DIR$/anqiyuekao/anqiyuekao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anqiyuekao36/anqiyuekao36.iml" filepath="$PROJECT_DIR$/anqiyuekao36/anqiyuekao36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anqiyuekao4.7/anqiyuekao4.7.iml" filepath="$PROJECT_DIR$/anqiyuekao4.7/anqiyuekao4.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anqizhoukao1/anqizhoukao1.iml" filepath="$PROJECT_DIR$/anqizhoukao1/anqizhoukao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anqizkao2/anqizkao2.iml" filepath="$PROJECT_DIR$/anqizkao2/anqizkao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day android studio.iml" filepath="$PROJECT_DIR$/day android studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lian1/lian1.iml" filepath="$PROJECT_DIR$/lian1/lian1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication3/myapplication3.iml" filepath="$PROJECT_DIR$/myapplication3/myapplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" filepath="$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
